@@ -32,5 +32,4 @@
 - git status
 - git add .
 - git commit -m "readme.md file added"
-- git push --set-upstream origin main
 - git push -u origin main
